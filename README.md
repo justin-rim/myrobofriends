@@ -1,6 +1,6 @@
 # My Robofriends
 
-Click the link in the **"About" **section to start!
+Click the link in the **"About" ** section to start!
 
 Type in a name on the search box and see who comes up!
 
